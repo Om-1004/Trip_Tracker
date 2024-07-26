@@ -1,0 +1,52 @@
+{
+  "cities": [
+    {
+      "cityName": "Lisbon",
+      "country": "Portugal",
+      "emoji": "🇵🇹",
+      "date": "2027-10-31T15:59:59.138Z",
+      "notes": "My favorite city so far!",
+      "position": {
+        "lat": 38.727881642324164,
+        "lng": -9.140900099907554
+      },
+      "id": 73930385
+    },
+    {
+      "cityName": "Alcoba",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-07-18T00:29:44.536Z",
+      "notes": "",
+      "position": {
+        "lat": "39.33429742980725",
+        "lng": "-4.350585937500001"
+      },
+      "id": 73930386
+    },
+    {
+      "cityName": "Hassi Messaoud",
+      "country": "Algeria",
+      "emoji": "🇩🇿",
+      "date": "2024-07-18T02:15:48.667Z",
+      "notes": "",
+      "position": {
+        "lat": "31.615965936476076",
+        "lng": "5.800781250000001"
+      },
+      "id": 73930387
+    },
+    {
+      "cityName": "Toronto",
+      "country": "Canada",
+      "emoji": "🇨🇦",
+      "date": "2024-07-18T20:19:48.209Z",
+      "notes": "Awesome",
+      "position": {
+        "lat": "43.77109381775651",
+        "lng": "-79.27734375000001"
+      },
+      "id": 73930388
+    }
+  ]
+}
